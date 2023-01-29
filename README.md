@@ -8,3 +8,8 @@ My favourite team that plays hockey is New Jersey Devils.
 1. Nathan Bastian
 2. Jesper Boqvist
 3. Jesper Bratt
+
+Teams that would be good to watch play.
+- Dallas stars
+- Arizona Coyotes
+- Los Angeles Kings
