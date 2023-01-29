@@ -24,3 +24,7 @@ Teams that would be good to watch play.
 | Paris | Eiffel Tower | 10 days |
 | Maldives | spellbinding sceneries | 6 days |
 | Dubai | Arabic architecture | 7 days |
+---------------------------------------------------------------------------------------------------------
+### Pithy quotes
+>Fluent in Telugu, Tamil and Hindi. Still strugling in writing and reading Telugu - *Sravanthi Thukivakam* <br>
+>Wanted to become Interior Designer, but ended up in IT - *Asritha Oruganti*
