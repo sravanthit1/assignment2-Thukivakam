@@ -15,3 +15,12 @@ Teams that would be good to watch play.
 - Los Angeles Kings
 
 [Link_to_AboutMe](https://github.com/sravanthit1/assignment2-Thukivakam/blob/main/AboutMe.md)
+---------------------------------------------------------------------------------------------------------
+### Tables
+| Country | Reason | Days Spent |
+| --- | --- | ---: |
+| India | Different food <br> Culture | 20 days |
+| Singapore | architectural wonders | 5 days |
+| Paris | Eiffel Tower | 10 days |
+| Maldives | spellbinding sceneries | 6 days |
+| Dubai | Arabic architecture | 7 days |
